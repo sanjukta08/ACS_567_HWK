@@ -1,0 +1,17 @@
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\obj\Debug\netcoreapp3.1\ACS_567_HWK.csproj.AssemblyReference.cache
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\obj\Debug\netcoreapp3.1\ACS_567_HWK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\obj\Debug\netcoreapp3.1\ACS_567_HWK.AssemblyInfoInputs.cache
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\obj\Debug\netcoreapp3.1\ACS_567_HWK.AssemblyInfo.cs
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\obj\Debug\netcoreapp3.1\ACS_567_HWK.csproj.CoreCompileInputs.cache
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\obj\Debug\netcoreapp3.1\ACS_567_HWK.sourcelink.json
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\bin\Debug\netcoreapp3.1\ACS_567_HWK.exe
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\bin\Debug\netcoreapp3.1\ACS_567_HWK.deps.json
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\bin\Debug\netcoreapp3.1\ACS_567_HWK.runtimeconfig.json
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\bin\Debug\netcoreapp3.1\ACS_567_HWK.runtimeconfig.dev.json
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\bin\Debug\netcoreapp3.1\ACS_567_HWK.dll
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\bin\Debug\netcoreapp3.1\ACS_567_HWK.pdb
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\obj\Debug\netcoreapp3.1\ACS_567_HWK.csproj.CopyComplete
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\obj\Debug\netcoreapp3.1\ACS_567_HWK.dll
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\obj\Debug\netcoreapp3.1\ACS_567_HWK.pdb
+C:\Users\Sanjukta Kambol\OneDrive - Purdue University Fort Wayne\Documents\GitHub\ACS_567_HWK\obj\Debug\netcoreapp3.1\ACS_567_HWK.genruntimeconfig.cache
