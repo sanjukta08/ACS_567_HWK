@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajko76ISM/nKRbiX7kMkovz0ZkNL8J6lzWgVT/zQ1+Y93znMWS/Me05MaBtkDov0hmuv8P94DHke8v8bNeUNOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sanjukta Kambol\\OneDrive - Purdue University Fort Wayne\\Documents\\GitHub\\ACS_567_HWK\\ACS_567_HWK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sanjukta Kambol\\.nuget\\packages\\system.linq.dynamic.core\\1.0.14\\system.linq.dynamic.core.1.0.14.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Linq.Dynamic.Core' 1.0.14 has a known critical severity vulnerability, https://github.com/advisories/GHSA-w65q-jcmv-28gj",
+      "libraryId": "System.Linq.Dynamic.Core",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ACS_567_HWK/1.0.0": {
+        "dependencies": {
+          "System.Linq.Dynamic.Core": "1.0.14"
+        },
+        "runtime": {
+          "ACS_567_HWK.dll": {}
+        }
+      },
+      "System.Linq.Dynamic.Core/1.0.14": {
+        "runtime": {
+          "lib/netcoreapp2.1/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.0.14.0",
+            "fileVersion": "1.0.14.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACS_567_HWK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Linq.Dynamic.Core/1.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8FfiNpUjkdrB+4Z5PG3jrQLiuhI54Gpa7ZycLYOLcR2SGjmsGUCZmNhMHjl0amqPG+/k28iPQgU2q14RA1Q9pQ==",
+      "path": "system.linq.dynamic.core/1.0.14",
+      "hashPath": "system.linq.dynamic.core.1.0.14.nupkg.sha512"
+    }
+  }
+}
